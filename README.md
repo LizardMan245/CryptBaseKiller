@@ -1,0 +1,1 @@
+This is a small python program to use alongside Frosty Editor with PvZ Garden Warfare 2. It deletes the file "CryptBase.dll" while you are trying to launch the game through the editor so it won't crash.
